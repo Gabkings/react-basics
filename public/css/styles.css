@@ -1,0 +1,43 @@
+body{
+	margin: 0;
+}
+
+header{
+	text-align: center;
+	background :#03a9f4;
+}
+
+.logo{
+	textAlign : 'center';
+	fontFamily : 'sans-serif';
+	color : "#fff";
+}
+
+header input{
+	font-size: 20px;
+	margin: 20px 0;
+}
+.active{
+	background: red;
+}
+
+.non-active{
+	background: blue;
+}
+
+.logo {
+    color:#fff;
+    font-size: 40px;
+    font-family: 'Anton'
+}
+
+header input {
+    font-size: 20px;
+    margin:20px 0;
+}
+
+.news_item {
+    padding:20px;
+    box-sizing:border-box;
+    border-bottom: 1px solid grey;
+}
